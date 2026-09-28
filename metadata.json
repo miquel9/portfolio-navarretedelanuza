@@ -1,0 +1,8 @@
+{
+  "name": "Miquel Navarrete - Portfolio & Systems",
+  "description": "Portafolio digital de Miquel Navarrete de Lanuza: Estudiante de Ingeniería Informática en la UPV, automatizaciones n8n con IA, sistemas de facturación y desarrollo full-stack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
